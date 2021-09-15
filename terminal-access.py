@@ -28,3 +28,4 @@ df.display()
 
 # COMMAND ----------
 
+df.display()
